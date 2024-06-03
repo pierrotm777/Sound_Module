@@ -5,9 +5,6 @@ Sound Module witch use handset channel for all commandes
 ![here](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware/Sound_Module_v1.0.png)
 
 ## Sound&Smoke_Module PCB:
-![here](https://github.com/Ingwie/OpenAVRc_Hw/blob/V3/Sound%26SmokeModule/S%26SM1.png)  
-
-![here](https://github.com/Ingwie/OpenAVRc_Hw/blob/V3/Sound%26SmokeModule/S%26SM2.png)  
 
 
 ## User manual
