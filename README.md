@@ -1,10 +1,10 @@
 # Sound_Module
 
-Sound Module witch use handset channel for all commandes.  
+This Sound Module use handset channels for all commandes.  
 The first version accept only PWM and CPPM output.  
 The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex) and JETIEX.  
 It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **Play/Stop sound** and **Play same sound**.  
-For command these fonction, you need to define 3 or 5 channels.  
+For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph *Commandes*.  
 
 ## Sound Module PCB:
@@ -24,7 +24,19 @@ You can use the program [32u4_hexuploader](https://github.com/uriba107/32u4_hexu
 
 ## Commandes
 ```SOUND_MODULE V1.0 [Use RC_NANY libs] (C) pierrotm777
-
+H Help
+S=W Write config
+S? Read Settings
+S=I X x=1 to 5 Input mode, 1=PWM, 2=CPPM, 3=SBUS, 4=IBUS, 5=SUMD
+S=Y Z Y=1 to 4 1=Vol, 2=Prev, 3=Next, 4=PlayPause,5=PlaySame / Z=1 to 12 (Channel Nb)
+V=x x=1 to 30 Default Volume
+M Maxi/Centre/Mini Channel in uS
+P? Read DFPlayer config
++ OR - Next/Prev Sound
+X /Play/Pause
+U Debug mode ON/OFF
+  
+R Write Default Settings
 
 ```
 
