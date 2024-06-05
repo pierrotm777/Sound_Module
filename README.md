@@ -1,11 +1,14 @@
 # Sound_Module
-Sound Module witch use handset channel for all commandes
 
+Sound Module witch use handset channel for all commandes.  
+The first version accept only PWM and CPPM output.  
+The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex) and JETIEX.  
+It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **Play/Stop sound** and **Play same sound**.  
+For command these fonction, you need to define 3 or 5 channels.  
+See paragraph *Commandes*.  
 
-![here](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware/Sound_Module_v1.0.png)
-
-## Sound&Smoke_Module PCB:
-
+## Sound Module PCB:
+![Schematic](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware/Sound_Module_v1.0.png)
 
 ## User manual
 
