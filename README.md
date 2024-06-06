@@ -5,7 +5,7 @@ The first version accept only PWM and CPPM output.
 The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex) and JETIEX.  
 It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **Play/Stop sound** and **Play same sound**.  
 For command these fonctions, you need to define 3 or 5 channels.  
-See paragraph *Commandes*.  
+See paragraph **Commandes**.  
 
 ![Top View](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware/Sound_ChristianTop.jpg)  
 
