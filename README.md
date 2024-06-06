@@ -27,9 +27,9 @@ You can use the program [32u4_hexuploader](https://github.com/uriba107/32u4_hexu
 H Help
 S=W Write config
 S? Read Settings
-S=I X x=1 to 5 Input mode, 1=PWM, 2=CPPM, 3=SBUS, 4=IBUS, 5=SUMD
+S=I X X=1 to 5 Input mode, 1=PWM, 2=CPPM, 3=SBUS, 4=IBUS, 5=SUMD
 S=Y Z Y=1 to 4 1=Vol, 2=Prev, 3=Next, 4=PlayPause,5=PlaySame / Z=1 to 12 (Channel Nb)
-V=x x=1 to 30 Default Volume
+V=X X=1 to 30 Default Volume
 M Maxi/Centre/Mini Channel in uS
 P? Read DFPlayer config
 + OR - Next/Prev Sound
