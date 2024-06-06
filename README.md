@@ -7,6 +7,8 @@ It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **P
 For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph *Commandes*.  
 
+![Top View](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware/Sound_ChristianTop.jpg)  
+
 ## Sound Module PCB:
 ![Schematic](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware/Sound_Module_v1.0.png)
 
