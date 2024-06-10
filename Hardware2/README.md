@@ -50,5 +50,5 @@ With OpenAVRc, it is not necessary to add an external RCUL encoder to benefit fr
 
 ## (oo) BURC
 As X-Any, [BURC](http://p.loussouarn.free.fr/arduino/exemple/BURC/BURC.html#encoder) use also the RCUL functionality developed for arduino targets.  
-BURC is usable with all handset witch has a PPM or SBUS input with the same features than X-Any.
+BURC is usable with all handset witch has a PPM or SBUS input with the same features than X-Any, but need an external coder.  
 
