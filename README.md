@@ -37,7 +37,7 @@ P? Read DFPlayer config
 + OR - Next/Prev Sound
 X /Play/Pause
 U Debug mode ON/OFF
-Y=X X=0 to 16 Xany mode 0=OFF 1 to 16=Xany Channel
+Y=X Z X=0 to 16 Xany mode 0=OFF 1 to 16=Xany Channel / Z=1 to 3 Xany mode
   
 R Write Default Settings
 
