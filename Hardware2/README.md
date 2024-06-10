@@ -2,7 +2,7 @@
 
 This Sound Module use handset channels for all commandes.  
 The first version accept only PWM and CPPM output.  
-The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex) and JETIEX.  
+The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex), JETIEX and XANY(o)/BURC(oo) on theses inputs modes.  
 It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **Play/Stop sound** and **Play same sound**.  
 For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph **Commandes**. 
@@ -42,4 +42,13 @@ Y=X Z X=0 to 16 Xany mode 0=OFF 1 to 16=Xany Channel / Z=1 to 3 Xany mode
 R Erase EEPROM and all configuration
 
 ```
+
+## (o) XANY
+X-Any is the direct integration into [OpenAVRc](https://github.com/Ingwie/OpenAVRc_Dev) of the RCUL functionality developed for arduino targets.  
+X-Any allows you to transmit in digital form, via a single proportional channel, any information between the transmitter and the receiver (e.g. the position of switch contacts) independently of the type of HF module: operation in 2.4 GHz is therefore guaranteed.  
+With OpenAVRc, it is not necessary to add an external RCUL encoder to benefit from the Multiswitch encoder functionality: the X-Any encoder is integrated into the transmitter in software.  
+
+## (oo) BURC
+As X-Any, [BURC](http://p.loussouarn.free.fr/arduino/exemple/BURC/BURC.html#encoder) use also the RCUL functionality developed for arduino targets.  
+BURC is usable with all handset witch has a PPM or SBUS input with the same features than X-Any.
 
