@@ -10,8 +10,8 @@ See paragraph **Commandes**.
 ## Two PCB versions
 <table cellspacing=0>
   <tr>
-    <td align=center width=400><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware1/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg" border="0" name="submit" title="Sound Module NORMAL (V1.0)" alt="Sound Module NORMAL (V1.0)"/></a><br><b>Version NORMAL</b></td>
-	<td align=center width=400><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg" border="0" name="submit" title="Sound Module XANY (V1.1)" alt="Sound Module XANY (V1.1)"/></a><br><b>Version XANY</b></td>
+    <td align=center width=400><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware1/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_Christian_Top.jpg" border="0" name="submit" title="Sound Module NORMAL (V1.0)" alt="Sound Module NORMAL (V1.0)"/></a><br><b>Version NORMAL</b></td>
+	<td align=center width=400><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_Module_Xany_Top.jpg" border="0" name="submit" title="Sound Module XANY (V1.1)" alt="Sound Module XANY (V1.1)"/></a><br><b>Version XANY</b></td>
 
   </tr>
 </table> 

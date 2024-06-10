@@ -7,10 +7,10 @@ It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **P
 For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph **Commandes**. 
 
-![Top View](https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg)  
+![Top View](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/Sound_Module_Xany_Top.jpg  
 
 ## Sound Module PCB NORMAL:
-![Schematic](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware1/Sound_Module_v1.0.png)
+![Schematic](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/Sound_Module_v1.1.jpg)
 
 ## User manual
 
