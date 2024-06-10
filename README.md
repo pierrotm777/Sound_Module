@@ -16,13 +16,13 @@ See paragraph **Commandes**.
 
 
 ## Upload the HEX file
+Two firmware are possibles, NORMAL or XANY.  
+They are downloadable [here](https://github.com/pierrotm777/Sound_Module/tree/main/Firmware).  
 
-
-## Sounds files 
+## How to upload your firmware
 The **Arduino Pro Micro** board use a particular method for upload a code.  
 You can use the program [32u4_hexuploader](https://github.com/uriba107/32u4_hexuploader).
 
- 
 
 ## Commandes
 ```SOUND_MODULE V1.0 [Use RC_NANY libs] (C) pierrotm777
@@ -37,6 +37,7 @@ P? Read DFPlayer config
 + OR - Next/Prev Sound
 X /Play/Pause
 U Debug mode ON/OFF
+Y=X X=0 to 16 Xany mode 0=OFF 1 to 16=Xany Channel
   
 R Write Default Settings
 
