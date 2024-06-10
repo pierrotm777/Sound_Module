@@ -27,7 +27,7 @@ You can use the program [32u4_hexuploader](https://github.com/uriba107/32u4_hexu
 ## Commandes
 ```SOUND_MODULE V1.0 [Use RC_NANY libs] (C) pierrotm777
 H Help
-S=W Write config
+S=W Write Default Settings
 S? Read Settings
 S=I X X=1 to 5 Input mode, 1=PWM, 2=CPPM, 3=SBUS, 4=IBUS, 5=SUMD
 S=Y Z Y=1 to 4 1=Vol, 2=Prev, 3=Next, 4=PlayPause,5=PlaySame / Z=1 to 12 (Channel Nb)
@@ -39,7 +39,7 @@ X /Play/Pause
 U Debug mode ON/OFF
 Y=X Z X=0 to 16 Xany mode 0=OFF 1 to 16=Xany Channel / Z=1 to 3 Xany mode
   
-R Write Default Settings
+R Erase EEPROM and all configuration
 
 ```
 
