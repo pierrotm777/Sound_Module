@@ -1,4 +1,4 @@
-# Sound_Module NORMAL
+# Sound_Module XANY
 
 This Sound Module use handset channels for all commandes.  
 The first version accept only PWM and CPPM output.  
@@ -9,7 +9,7 @@ See paragraph **Commandes**.
 
 ![Top View](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/Sound_Module_Xany_Top.jpg  
 
-## Sound Module PCB NORMAL:
+## Sound Module PCB XANY:
 ![Schematic](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/Sound_Module_v1.1.jpg)
 
 ## User manual
