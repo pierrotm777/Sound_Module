@@ -9,8 +9,8 @@ See paragraph **Commandes**.
 
 <table cellspacing=0>
   <tr>
-    <td align=center width=200><a href="https://github.com/Ingwie/OpenAVRc_Hw/tree/V3/User's%20OpenAVRc%20Transmitters/pierrotm777/Fc16/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg" border="0" name="submit" title="Fc16 Transmitter" alt="Fc16 Transmitter"/></a><br><b>Version NORMAL</b></td>
-	<td align=center width=200><a href="https://github.com/Ingwie/OpenAVRc_Hw/tree/V3/User's%20OpenAVRc%20Transmitters/pierrotm777/My_Prototypes/README.md"><img src="My_Prototypes/Protos_Pierrot.jpg" border="0" name="submit" title="Prototypes" alt="Prototypes"/></a><br><b>Prototypes</b></td>
+    <td align=center width=200><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware1/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg" border="0" name="submit" title="Fc16 Transmitter" alt="Fc16 Transmitter"/></a><br><b>Version NORMAL</b></td>
+	<td align=center width=200><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg" border="0" name="submit" title="Fc16 Transmitter" alt="Fc16 Transmitter"/></a><br><b>Version XANY</b></td>
 
   </tr>
 </table> 
