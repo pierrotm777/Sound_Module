@@ -7,6 +7,7 @@ It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **P
 For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph **Commandes**. 
 
+## Two PCB versions
 <table cellspacing=0>
   <tr>
     <td align=center width=200><a href="https://github.com/pierrotm777/Sound_Module/blob/main/Hardware1/README.md"><img src="https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg" border="0" name="submit" title="Fc16 Transmitter" alt="Fc16 Transmitter"/></a><br><b>Version NORMAL</b></td>
@@ -14,11 +15,6 @@ See paragraph **Commandes**.
 
   </tr>
 </table> 
-
-![Top View](https://github.com/pierrotm777/Sound_Module/blob/main/Sound_ChristianTop.jpg)  
-
-## Sound Module PCB:
-![Schematic](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware1/Sound_Module_v1.0.png)
 
 ## User manual
 
