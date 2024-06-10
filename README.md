@@ -1,7 +1,7 @@
 # Sound_Module
 This Sound Module use handset channels for all commandes.  
-The **first (v1.0 pcb)** version accept only PWM and CPPM output.  
-The **second (v1.1 pcb)** version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex), JETIEX and XANY(o)/BURC(oo) on theses inputs modes.  
+The first version accept only PWM and CPPM output.  
+The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex), JETIEX and XANY [(o)](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/README.md#o-xany) / BURC [(oo)](https://github.com/pierrotm777/Sound_Module/blob/main/Hardware2/README.md#oo-burc) on theses inputs modes.  
 It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **Play/Stop sound** and **Play same sound**.  
 For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph **Commandes**.  
