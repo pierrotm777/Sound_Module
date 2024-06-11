@@ -48,6 +48,6 @@ X-Any allows you to transmit in digital form, via a single proportional channel,
 With OpenAVRc, it is not necessary to add an external RCUL encoder to benefit from the Multiswitch encoder functionality: the X-Any encoder is integrated into the transmitter in software.  
 
 ## (oo) BURC
-As X-Any, [BURC](http://p.loussouarn.free.fr/arduino/exemple/BURC/BURC.html#encoder) use also the RCUL functionality developed for arduino targets.  
+As X-Any, [BURC](https://github.com/pierrotm777/BURC_Encoder) use also the RCUL functionality developed for arduino targets.  
 BURC is usable with all handset witch has a PPM or SBUS input with the same features than X-Any, but need an external coder.  
 
