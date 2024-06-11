@@ -40,7 +40,7 @@ P? Read DFPlayer config
 + OR - Next/Prev Sound
 X /Play/Pause
 U Debug mode ON/OFF
-Y=X Z X=0 to 16 Xany mode 0=OFF 1 to 16=Xany Channel / Z=1 to 3 Xany mode
+Y=X Z X=0 to 16 Xany mode 0=OFF or 1 to 16=Xany Channel / Z=1 to 4 Xany mode
   
 R Erase EEPROM and all configuration
 
