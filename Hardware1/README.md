@@ -1,7 +1,6 @@
 # Sound_Module NORMAL
 This Sound Module use handset channels for all commandes.  
-The first version accept only PWM and CPPM output.  
-The second version will accept also SBUS, IBUS (Flysky), SUMD (Graupner), SRXL (Multiplex), JETIEX.  
+This version accept only PWM and CPPM output. 
 It's possible to command the **Volume**, **Previous sound**, **Next Sound**, **Play/Stop sound** and **Play same sound**.  
 For command these fonctions, you need to define 3 or 5 channels.  
 See paragraph **Commandes**.  
