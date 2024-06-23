@@ -30,6 +30,7 @@ You can use the program [32u4_hexuploader](https://github.com/uriba107/32u4_hexu
 ## Commandes
 ```SOUND_MODULE V1.0 [Use RC_NANY libs] (C) pierrotm777
 H Help
+C Module Connections
 S=W Write Default Settings
 S? Read Settings
 S=I X X=1 to 5 Input mode, 1=PWM, 2=CPPM, 3=SBUS, 4=IBUS, 5=SUMD
@@ -39,7 +40,7 @@ M Maxi/Centre/Mini Channel in uS
 P? Read DFPlayer config
 + OR - Next/Prev Sound
 X /Play/Pause
-U Debug mode ON/OFF
+D Debug mode ON/OFF
 Y=X Z X=0 to 16 Xany mode 0=OFF or 1 to 16=Xany Channel / Z=1 to 4 Xany mode
   
 R Erase EEPROM and all configuration
