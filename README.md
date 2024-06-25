@@ -16,7 +16,7 @@ See paragraph **Commandes**.
 </table> 
 
 ## User manual
-
+You can find a documentation in French [here](https://github.com/pierrotm777/Sound_Module/blob/main/Module_Son_Manuel_Utilisateur.pdf).  
 
 ## Upload the HEX file
 Two firmware are possibles, NORMAL or XANY.  
