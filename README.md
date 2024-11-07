@@ -16,7 +16,7 @@ See paragraph **Commandes**.
 </table> 
 
 ### First PCB options
-This board accept two mode:  
+This board accept two modes:  
   * mode Next/Previous sounds (This mode use two switchs on the Handset for sect each sound  
   * mode 8 Buttons (This mode need a 8 buttons keyboard that replace a proportionnal channel into the handset  
 
