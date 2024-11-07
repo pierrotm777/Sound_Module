@@ -15,6 +15,14 @@ See paragraph **Commandes**.
   </tr>
 </table> 
 
+### First PCB options
+This board accept two mode:  
+  * mode Next/Previous sounds (This mode use two switchs on the Handset for sect each sound  
+  * mode 8 Buttons (This mode need a 8 buttons keyboard that replace a proportionnal channel into the handset  
+
+### Second PCB options
+This board accept Only the Xany feature and need a BURC module connected on your handset or an OpenAVRc handset.    
+
 ## User manual
 You can find a documentation in French [here](https://github.com/pierrotm777/Sound_Module/blob/main/Module_Son_Manuel_Utilisateur.pdf).  
 
