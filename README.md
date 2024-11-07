@@ -18,7 +18,7 @@ See paragraph **Commandes**.
 ### First PCB options
 This board accept two modes:  
   * mode Next/Previous sounds (This mode use two switchs on the Handset for select each sound  
-  * mode 8 Buttons (This mode need a 8 buttons keyboard that replace a proportionnal channel into the handset  
+  * mode 8 Buttons (This mode need a [8 buttons keyboard](https://p-loussouarn-free-fr.translate.goog/projet/MS8-V2/MS8-V2.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en#Keyboard) that replace a proportionnal channel into the handset  
 
 ### Second PCB options
 This board accept Only the Xany feature and need a BURC module connected on your handset or an OpenAVRc handset.    
